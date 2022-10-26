@@ -2,7 +2,7 @@
 
 Bot Ozi Jaylene Aittir
 
-Botu Alıp Setupa Çevirdim içine bir kaç komut ekledim eğer bu repoya fazla star gelirse Ozi Jaylenden İzin Alıp Botu Buraya Atıcam
+Botu Alıp Setupa Çevirdim içine bir kaç komut ekledim eğer bu repoya fazla star Botu Buraya Atıcam
 Bot Tamamen Hatasızdır setup ile id doldurmadan botu kullana bilirsiniz.
 
 Kurulum: Modülleri indirme npm i -g pm2 Başlatma: npm start
