@@ -11,3 +11,5 @@ Bot Hakkında Ufak Görseller
 ![image](https://cdn.discordapp.com/attachments/1018742179046363157/1034722193193586698/setup_kurulum.png)
 ![image](https://cdn.discordapp.com/attachments/1018742179046363157/1034722602951905340/kurulum_liste.png)
 ![image](https://cdn.discordapp.com/attachments/1018742179046363157/1034723015663038495/setup.png)
+![image](https://cdn.discordapp.com/attachments/1018742179046363157/1037672431294349342/image_2.png)
+![image](https://cdn.discordapp.com/attachments/1018742179046363157/1037672431600553984/image_1.png)
