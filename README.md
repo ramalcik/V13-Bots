@@ -13,3 +13,5 @@ Bot Hakkında Ufak Görseller
 ![image](https://cdn.discordapp.com/attachments/1018742179046363157/1034723015663038495/setup.png)
 ![image](https://cdn.discordapp.com/attachments/1018742179046363157/1037672431294349342/image_2.png)
 ![image](https://cdn.discordapp.com/attachments/1018742179046363157/1037672431600553984/image_1.png)
+![image](https://cdn.discordapp.com/attachments/1018742179046363157/1038203093931806810/sustur.png)
+![image](https://cdn.discordapp.com/attachments/1018742179046363157/1038203093575278682/susturmenu.png)
