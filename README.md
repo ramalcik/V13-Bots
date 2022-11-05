@@ -15,3 +15,7 @@ Bot Hakkında Ufak Görseller
 ![image](https://cdn.discordapp.com/attachments/1018742179046363157/1037672431600553984/image_1.png)
 ![image](https://cdn.discordapp.com/attachments/1018742179046363157/1038203093931806810/sustur.png)
 ![image](https://cdn.discordapp.com/attachments/1018742179046363157/1038203093575278682/susturmenu.png)
+![image](https://cdn.discordapp.com/attachments/1018742179046363157/1038473990441816155/karantina.png)
+![image](https://cdn.discordapp.com/attachments/1018742179046363157/1038473064939270206/jailmenu.png)
+![image](https://cdn.discordapp.com/attachments/1018742179046363157/1038473990177562664/unkarantina.png)
+![image](https://cdn.discordapp.com/attachments/1018742179046363157/1038473989644894208/unkarantinacikart.png)
