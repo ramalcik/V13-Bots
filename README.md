@@ -20,3 +20,4 @@ Bot Hakkında Ufak Görseller
 ![image](https://cdn.discordapp.com/attachments/1018742179046363157/1038473990177562664/unkarantina.png)
 ![image](https://cdn.discordapp.com/attachments/1018742179046363157/1038473989644894208/unkarantinacikart.png)
 ![image](https://cdn.discordapp.com/attachments/1025465436302737509/1040359544452300850/Adsz.png)
+![image](https://cdn.discordapp.com/attachments/1041540064674590840/1043523527430635591/ystats.png)
