@@ -25,3 +25,4 @@ Bot Hakkında Ufak Görseller
 ![image](https://cdn.discordapp.com/attachments/1006698954248966336/1045997700853809243/topstatmesaj.png)
 ![image](https://cdn.discordapp.com/attachments/1006698954248966336/1045997701172563968/topses.png)
 ![image](https://cdn.discordapp.com/attachments/1006698954248966336/1047203406189690891/sils.png)
+![image](https://cdn.discordapp.com/attachments/999753520116932658/1048190724870516736/helpss.png)
